@@ -35,9 +35,15 @@ different things, and only one of them is worth reading.
 
 ## Contents
 
-- [METHOD.md](METHOD.md) — the five working rules, and the incident behind each
+- [METHOD.md](METHOD.md) — the six working rules, and the incident behind each
 - [RESULTS.md](RESULTS.md) — each finding, its control, and what may not be
   concluded from it
+- [REVIEW.md](REVIEW.md) — what two adversarial reviews of my own work found:
+  25 findings, and the module rejected at the end of both
+- [PROCESS.md](PROCESS.md) — errors in how the work was *run* rather than
+  measured, and the rules that replaced them
+- [PARKED.md](PARKED.md) — ideas kept for later, and disproven claims nailed
+  down so they do not come back a third time
 
 ## Licence
 

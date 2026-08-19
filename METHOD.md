@@ -75,6 +75,24 @@ Every test in the first phase used imposed horizons. The corrected form:
 
 The data names the scale; the analyst does not.
 
+## 6. Say which of three things a number is
+
+Every figure is PROVEN, MEASURED, or neither, and the label travels with it.
+
+*Proven* means derivable from an authoritative source and re-derivable by
+anyone. *Measured* means it came from observation, over a stated corpus, with
+the corpus pinned. *Neither* means inference — which is allowed, but only when
+it is labelled as such.
+
+The rule that enforces it: **a number nobody can re-derive is a memory, not
+evidence.** An earlier version of one document stated figures that existed
+nowhere but in that document. They all turned out to be correct. That was luck,
+and the review said so.
+
+Numeric claims written in prose are now checked mechanically against the pinned
+artifact — 119 of them in a single document — so a figure cannot drift out of
+agreement with the data it came from without the test suite going red.
+
 ---
 
 ## The cost of this
