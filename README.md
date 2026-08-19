@@ -11,6 +11,11 @@ claim hard to state.
 Every number below appears next to the control that validated it. A number
 standing alone is the thing this repository exists to argue against.
 
+**Read it as a page:**
+[ioannis-christou.github.io/evidence-discipline](https://ioannis-christou.github.io/evidence-discipline/)
+· a separate [manufacturing KPI dashboard](https://ioannis-christou.github.io/evidence-discipline/dashboard.html)
+built on demo data shows the same standard applied to day-job reporting.
+
 ## Results at a glance
 
 | Question | Measured | Control that validated it |
